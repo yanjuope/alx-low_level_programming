@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* main-program entry point.
-* Retutn:0-no error,non zero value if error.
+*main-program entry point.
+*Retutn:0-no error,non zero value if error.
 **/
 int main(void)
 {
