@@ -4,7 +4,7 @@
 * main - Prints the add of the even-valued
 *fibonacci numbers.
 *
-* return: Always 0.
+* Return: Always 0.
 */
 int main(void)
 {
